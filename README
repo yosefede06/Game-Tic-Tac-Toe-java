@@ -1,6 +1,3 @@
-yosefede06
-345175475
-
 Strategy of the automatic players:
     - Whatever: Chose randomly a coordinate from all the blank blocks of the board.
     - Clever: Fills blank blocks of the board horizontally in order from left to right and from rows to columns,
